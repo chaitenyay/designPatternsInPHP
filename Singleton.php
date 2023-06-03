@@ -20,6 +20,9 @@ class Singleton {
 
 $singleObj = Singleton::getInstance();
 $singleObj = Singleton::getInstance();
+$singleObj = Singleton::getInstance();
+$singleObj = Singleton::getInstance();
 
 print_r($singleObj);
+
 ?>
