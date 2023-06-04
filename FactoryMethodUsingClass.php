@@ -137,7 +137,7 @@ class INDStylePizzaStore extends PizzaStore {
 
 //5. Create Factory Interface.
 interface PizzaFactory {
-    public function createPizza(string $pizzaType);
+    public function createPizza(string $pizzaType): Pizza;
 }
 
 //6. Creare concreate factory classess.
