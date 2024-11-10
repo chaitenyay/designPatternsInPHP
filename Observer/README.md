@@ -1,5 +1,8 @@
 ```mermaid
 
+---
+title: Observer Design Pattern
+---
 
 classDiagram
 iPaymentSubject <|.. PaymentAuthorize
