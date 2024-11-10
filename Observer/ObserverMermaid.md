@@ -1,6 +1,5 @@
----
-title: Observer Design Pattern
----
+```mermaid
+
 
 classDiagram
 iPaymentSubject <|.. PaymentAuthorize
@@ -17,6 +16,7 @@ class iPaymentSubject {
 
 class iPaymentSubscriber {
     <<interface>>
+    + update($txnId);
 }
 
 class PaymentAuthorize {
@@ -33,3 +33,4 @@ class NotificationServiceObserver {
 }
 
 
+```
