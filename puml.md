@@ -1,4 +1,3 @@
-```plantuml
 
 @startuml Decorator Design Pattern
 
@@ -36,5 +35,3 @@ Class DecorateWithChocolate extends CoffeeDecorator {
 }
 
 @enduml
-
-```
