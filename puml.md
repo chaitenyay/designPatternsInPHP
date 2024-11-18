@@ -1,3 +1,4 @@
+```plantuml
 
 @startuml Decorator Design Pattern
 
