@@ -2,4 +2,4 @@
 Design Patterns with PHP
 
 
-![Diagram Image Link](./Sample.puml)
+[Diagram Image Link](./Sample.puml)
