@@ -8,18 +8,6 @@ Design Patterns with PHP
 
 ```plantuml
 
-@startuml
-
-Shape <|.. Ractangle
-
-interface Shape{
-
-}
-
-class Square implements Shape {
-
-}
-
-@enduml
+https://raw.githubusercontent.com/chaitenyay/designPatternsInPHP/refs/heads/main/Sample.puml
 
 ```
